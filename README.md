@@ -1,5 +1,5 @@
-# Machine_Learning-Classification
-Predicting Heart Disease Using Machine Learning: Study of Logistic Regression and Random Forest Models.
+# Heart Disease Prediction Using Machine Learning
+Logistic Regression and Random Forest models were developed and evaluated to predict the presence of heart disease.
 
 ## 📌 Project Overview  
 This project analyzes a heart disease dataset to develop machine learning models for predicting the presence or absence of heart disease. The analysis involves preprocessing, exploratory data analysis (EDA), model training, hyperparameter tuning, and evaluation.
